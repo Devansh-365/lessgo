@@ -16,8 +16,8 @@ Here are the constraints of Project52:
 
 ## Progress
 
-1. (13/04/2020) [GoWeb: A Simple Web Server](https://github.com/Devansh-365/lessgo/tree/main/simple%20web%20server) - Simple web server build with goalng
-2. (24/04/2020) [GoCrud: Crud API](https://github.com/Devansh-365/lessgo/tree/main/crud-api) - A crud api build while learning.
+1. [GoWeb: A Simple Web Server](https://github.com/Devansh-365/lessgo/tree/main/simple%20web%20server) - Simple web server build with goalng
+2. [GoCrud: Crud API](https://github.com/Devansh-365/lessgo/tree/main/crud-api) - A crud api build while learning.
 
 ## Suggest an idea or encourage me
 
